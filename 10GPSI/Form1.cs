@@ -21,7 +21,6 @@ namespace _10GPSI
         {
             switch (e.KeyCode)
             {
-                // Tecla para cima
                 case Keys.Up:
                     bloco.Top -= 10;
                     break;
