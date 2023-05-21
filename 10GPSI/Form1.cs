@@ -19,7 +19,6 @@ namespace _10GPSI
 
         private void frmPrincipal_KeyDown(object sender, KeyEventArgs e)
         {
-            // Captura as teclas de direção
             switch (e.KeyCode)
             {
                 case Keys.Up:
